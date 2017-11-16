@@ -9,7 +9,7 @@
   ],
   "description": "FHIR javascript API",
   "keywords": ["fhir", "angular", "jquery","yui"],
-  "main": "dist/ngFhir.js",
+  "main": "ngFhir.js",
   "ignore": [
     "coffee",
     "integration_test",
